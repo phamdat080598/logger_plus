@@ -4,13 +4,13 @@ version: 0.0.6+4
 homepage: https://github.com/DevendraFlutterDev/logger_plus
 
 environment:
-  sdk: ">=2.18.0 <3.0.0"
+  sdk: ">=3.1.0 <4.0.0"
   flutter: ">=3.3.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  sensors_plus: ^2.0.1
+  sensors_plus: ^4.0.2
 
 dev_dependencies:
   flutter_test:
